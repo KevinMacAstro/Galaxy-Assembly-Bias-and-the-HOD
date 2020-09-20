@@ -1,5 +1,6 @@
 # Plots figure 3 from publication: fsig_8^ for HW13 and shuffled full and central only galaxy mocks.
 # With ratrio panel.
+# Also used for Fig. 4, 7, 9, and 10.
 
 import numpy as np
 import matplotlib.pyplot as plt
