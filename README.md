@@ -22,12 +22,9 @@ CODE FILES
 Fileprep_Galaxies
   - eraseABnew.py (erases 2-halo AB signal)
   - sft_draw.py (mock galaxy catalog manipulation; including placing galaxies into redshift-space)
-  -
-  -
-  -
 Clustering Measurements
- -
- -
+ - mltpole_full.py (calculated monopole,quadrupole, and hexadecapole from xi(s,u) measurment)
+ - 
  -
 Estimator
  -
