@@ -20,8 +20,8 @@ Measurements of the linear growth-rate (fsig_8(z)) are complementary to that of 
 CODE FILES
 -----------------------------------------------------------
 Fileprep_Galaxies
-  -
-  -
+  - eraseABnew.py (erases 2-halo AB signal)
+  - sft_draw.py (mock galaxy catalog manipulation; including placing galaxies into redshift-space)
   -
   -
   -
