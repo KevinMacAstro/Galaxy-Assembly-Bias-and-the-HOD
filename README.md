@@ -25,10 +25,10 @@ Fileprep_Galaxies
   
 Clustering_Measurements
 - mltpole_full.py (calculated monopole,quadrupole, and hexadecapole from xi(s,u) measurment)
-  
-Estimator
- -
- -
+- mltpole_cut.py (calculated truncated multipoles from xi(s,u), removing pairs from small-scale seps, and extrapolating to modified multipole)
+- covar.py (measures the covariance matrix of the multipole measurements from jackknife subsampling)
+- estimator.py (calculated the growth-rate curve from fsig_8 estimator)
+
 Plots
  -
  -
