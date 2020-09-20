@@ -1,4 +1,5 @@
-# Plots figure 2 from publication: 2PCFs for HW13 and Shuffled full galaxy mocks.
+# Plots figure 2 from publication: 2PCF (wp,xi_0,xi_2,xi_4) for difference luminosity thresholds.
+# Also used for Fig. 6, 8, 11, and C1
 
 import numpy as np
 import matplotlib.pyplot as plt
