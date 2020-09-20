@@ -21,17 +21,17 @@ CODE FILES
 -----------------------------------------------------------
 Fileprep_Galaxies
 - eraseABnew.py (erases 2-halo AB signal)
-- sft_draw.py (mock galaxy catalog manipulation; including placing galaxies into redshift-space)
-  
+- sft_draw.py (mock galaxy catalog manipulation; including placing galaxies into redshift-space) 
 Clustering_Measurements
 - mltpole_full.py (calculated monopole,quadrupole, and hexadecapole from xi(s,u) measurment)
 - mltpole_cut.py (calculated truncated multipoles from xi(s,u), removing pairs from small-scale seps, and extrapolating to modified multipole)
 - covar.py (measures the covariance matrix of the multipole measurements from jackknife subsampling)
 - estimator.py (calculated the growth-rate curve from fsig_8 estimator)
-
 Plots
- -
- -
+- fig1.py (for 2PCF in linear rp,r_pi 2D space)
+- fig2.py (for 2PCF (wp,xi_0,xi_2,xi_4) measurement as function of rp or s)
+- fig3.py (for fsig_8 estimator)
+- fig5.py (for chi^2 and n_g values from HOD/SCAM fits)
  
 
 
