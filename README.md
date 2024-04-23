@@ -1,4 +1,4 @@
-# Paper1_GalABonGrowthRate https://arxiv.org/abs/1810.05183
+#https://arxiv.org/abs/1810.05183
 The Effects of Galaxy Assembly Bias on the Inference of Growth Rate from Redshift-Space Distortions
 Kevin Spencer McCarthy, Zheng Zheng, and Hong Guo
 Accepted MNRAS, Volume 487, Issue 2, August 2019, Pages 2424_2440
