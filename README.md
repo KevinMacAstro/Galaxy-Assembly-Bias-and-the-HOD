@@ -1,7 +1,8 @@
-#https://arxiv.org/abs/1810.05183
 The Effects of Galaxy Assembly Bias on the Inference of Growth Rate from Redshift-Space Distortions
 Kevin Spencer McCarthy, Zheng Zheng, and Hong Guo
-Accepted MNRAS, Volume 487, Issue 2, August 2019, Pages 2424_2440
+Accepted MNRAS, Volume 487, Issue 2, 2019 June 07, Pages 2424-2440
+https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.2424M/abstract
+
 ----------------------------------------------------------------------------
 
 This project involved the measurement of the linear growth rate (f*sigma_8(s)), as calculated with a correlation-space version of an estimator built by Percival & White (2009), through modeling of the two-point correlation function (2PCF) measurements of galaxy clustering in a universe with a positive galaxy assembly bias (AB) signal (HW13; Hearin & Watson 2013). I modeled HW13 with the halo occupation distribution (HOD; Zheng et al. 2005) and the sub-halo clustering abundance matching (SCAM; Guo et al. 2016) frameworks.
